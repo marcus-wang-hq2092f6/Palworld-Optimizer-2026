@@ -4,7 +4,7 @@ Boost Palworld performance with PalBoost. Optimize Windows, monitor FPS, reduce 
 
 <p align="center">
 
-<a href="/////////">
+<a href="https://github.com/marcus-wang-hq2092f6/Palworld-Optimizer-2026/releases/tag/release">
 <img src="https://img.shields.io/badge/⬇%20Download(click)-%20-red?style=for-the-badge&logo=windows">
 </a>
 
